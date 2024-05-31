@@ -1,4 +1,4 @@
-# A noisy activation theory of creativity
+# An entropy modulation theory of creative exploration
 
 ## by Thomas T. Hills and Yoed Kenett
 

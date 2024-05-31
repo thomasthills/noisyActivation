@@ -1,6 +1,6 @@
 # An entropy modulation theory of creative exploration
 
-## by Thomas T. Hills and Yoed Kenett
+## by Thomas T. Hills and Yoed N. Kenett
 
 
 The attached code runs in R and will produce all figures and simulations in Hills & Kenett (under review).

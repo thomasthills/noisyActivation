@@ -134,7 +134,7 @@ entropy <- function(x){
 
 # Setup simulation
 # Number of retrievals per cue
-sims = 500
+sims = 5000
 # Data buffers
 time_keeper_high <-c()
 time_keeper_low <-c()
